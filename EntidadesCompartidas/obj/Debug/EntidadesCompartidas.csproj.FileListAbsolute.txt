@@ -1,0 +1,45 @@
+C:\Users\popi\Desktop\CasoDeEstudio\00-CasoEstudio\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\popi\Desktop\CasoDeEstudio\00-CasoEstudio\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\popi\Desktop\CasoDeEstudio\00-CasoEstudio\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\popi\Desktop\CasoDeEstudio\00-CasoEstudio\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\popi\Desktop\CasoDeEstudio\00-CasoEstudio\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\popi\Desktop\00 - CasoEstudio\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\popi\Desktop\00 - CasoEstudio\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\popi\Desktop\00 - CasoEstudio\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\popi\Desktop\00 - CasoEstudio\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\popi\Desktop\00 - CasoEstudio\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\Usuario\Desktop\diseño 2017\02 - CasoEstudio\00 - CasoEstudio\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Usuario\Desktop\diseño 2017\02 - CasoEstudio\00 - CasoEstudio\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Usuario\Desktop\diseño 2017\02 - CasoEstudio\00 - CasoEstudio\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\diseño 2017\02 - CasoEstudio\00 - CasoEstudio\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\Usuario\Desktop\diseño 2017\02 - CasoEstudio\00 - CasoEstudio\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+D:\Descargas\Ob2\Obligatorio-Diseño1\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+D:\Descargas\Ob2\Obligatorio-Diseño1\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+D:\Descargas\Ob2\Obligatorio-Diseño1\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.csprojResolveAssemblyReference.cache
+D:\Descargas\Ob2\Obligatorio-Diseño1\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+D:\Descargas\Ob2\Obligatorio-Diseño1\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+D:\Descargas\Obligatorio-Diseño1\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+D:\Descargas\Obligatorio-Diseño1\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+D:\Descargas\Obligatorio-Diseño1\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+D:\Descargas\Obligatorio-Diseño1\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+D:\Descargas\Obligatorio-Diseño1\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.csprojResolveAssemblyReference.cache
+C:\Obligatorio-Diseño1\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Obligatorio-Diseño1\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Obligatorio-Diseño1\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Obligatorio-Diseño1\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+D:\Descargas\obnuevo\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+D:\Descargas\obnuevo\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+D:\Descargas\obnuevo\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+D:\Descargas\obnuevo\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\obnuevo\obnuevo\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\obnuevo\obnuevo\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\obnuevo\obnuevo\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\obnuevo\obnuevo\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+D:\Descargas\Ob2\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+D:\Descargas\Ob2\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+D:\Descargas\Ob2\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+D:\Descargas\Ob2\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+D:\Descargas\Imagenes Linq\Ob2\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+D:\Descargas\Imagenes Linq\Ob2\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+D:\Descargas\Imagenes Linq\Ob2\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+D:\Descargas\Imagenes Linq\Ob2\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb

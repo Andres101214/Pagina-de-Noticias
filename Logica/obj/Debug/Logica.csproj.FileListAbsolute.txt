@@ -1,0 +1,90 @@
+C:\Users\popi\Desktop\CasoDeEstudio\00-CasoEstudio\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\popi\Desktop\CasoDeEstudio\00-CasoEstudio\Logica\bin\Debug\Logica.dll
+C:\Users\popi\Desktop\CasoDeEstudio\00-CasoEstudio\Logica\bin\Debug\Logica.pdb
+C:\Users\popi\Desktop\CasoDeEstudio\00-CasoEstudio\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\popi\Desktop\CasoDeEstudio\00-CasoEstudio\Logica\bin\Debug\Persistencia.dll
+C:\Users\popi\Desktop\CasoDeEstudio\00-CasoEstudio\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\popi\Desktop\CasoDeEstudio\00-CasoEstudio\Logica\bin\Debug\Persistencia.pdb
+C:\Users\popi\Desktop\CasoDeEstudio\00-CasoEstudio\Logica\obj\Debug\Logica.dll
+C:\Users\popi\Desktop\CasoDeEstudio\00-CasoEstudio\Logica\obj\Debug\Logica.pdb
+C:\Users\popi\Desktop\00 - CasoEstudio\Logica\bin\Debug\Logica.dll
+C:\Users\popi\Desktop\00 - CasoEstudio\Logica\bin\Debug\Logica.pdb
+C:\Users\popi\Desktop\00 - CasoEstudio\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\popi\Desktop\00 - CasoEstudio\Logica\bin\Debug\Persistencia.dll
+C:\Users\popi\Desktop\00 - CasoEstudio\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\popi\Desktop\00 - CasoEstudio\Logica\bin\Debug\Persistencia.pdb
+C:\Users\popi\Desktop\00 - CasoEstudio\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\popi\Desktop\00 - CasoEstudio\Logica\obj\Debug\Logica.dll
+C:\Users\popi\Desktop\00 - CasoEstudio\Logica\obj\Debug\Logica.pdb
+C:\Users\Usuario\Desktop\diseño 2017\02 - CasoEstudio\00 - CasoEstudio\Logica\bin\Debug\Logica.dll
+C:\Users\Usuario\Desktop\diseño 2017\02 - CasoEstudio\00 - CasoEstudio\Logica\bin\Debug\Logica.pdb
+C:\Users\Usuario\Desktop\diseño 2017\02 - CasoEstudio\00 - CasoEstudio\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Usuario\Desktop\diseño 2017\02 - CasoEstudio\00 - CasoEstudio\Logica\bin\Debug\Persistencia.dll
+C:\Users\Usuario\Desktop\diseño 2017\02 - CasoEstudio\00 - CasoEstudio\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Usuario\Desktop\diseño 2017\02 - CasoEstudio\00 - CasoEstudio\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Usuario\Desktop\diseño 2017\02 - CasoEstudio\00 - CasoEstudio\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\diseño 2017\02 - CasoEstudio\00 - CasoEstudio\Logica\obj\Debug\Logica.dll
+C:\Users\Usuario\Desktop\diseño 2017\02 - CasoEstudio\00 - CasoEstudio\Logica\obj\Debug\Logica.pdb
+D:\Descargas\Ob2\Obligatorio-Diseño1\Logica\bin\Debug\Logica.dll
+D:\Descargas\Ob2\Obligatorio-Diseño1\Logica\bin\Debug\Logica.pdb
+D:\Descargas\Ob2\Obligatorio-Diseño1\Logica\bin\Debug\EntidadesCompartidas.dll
+D:\Descargas\Ob2\Obligatorio-Diseño1\Logica\bin\Debug\Persistencia.dll
+D:\Descargas\Ob2\Obligatorio-Diseño1\Logica\bin\Debug\EntidadesCompartidas.pdb
+D:\Descargas\Ob2\Obligatorio-Diseño1\Logica\bin\Debug\Persistencia.pdb
+D:\Descargas\Ob2\Obligatorio-Diseño1\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+D:\Descargas\Ob2\Obligatorio-Diseño1\Logica\obj\Debug\Logica.dll
+D:\Descargas\Ob2\Obligatorio-Diseño1\Logica\obj\Debug\Logica.pdb
+D:\Descargas\Obligatorio-Diseño1\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+D:\Descargas\Obligatorio-Diseño1\Logica\bin\Debug\Logica.dll
+D:\Descargas\Obligatorio-Diseño1\Logica\bin\Debug\Logica.pdb
+D:\Descargas\Obligatorio-Diseño1\Logica\bin\Debug\EntidadesCompartidas.dll
+D:\Descargas\Obligatorio-Diseño1\Logica\bin\Debug\Persistencia.dll
+D:\Descargas\Obligatorio-Diseño1\Logica\bin\Debug\EntidadesCompartidas.pdb
+D:\Descargas\Obligatorio-Diseño1\Logica\bin\Debug\Persistencia.pdb
+D:\Descargas\Obligatorio-Diseño1\Logica\obj\Debug\Logica.dll
+D:\Descargas\Obligatorio-Diseño1\Logica\obj\Debug\Logica.pdb
+C:\Obligatorio-Diseño1\Logica\bin\Debug\Logica.dll
+C:\Obligatorio-Diseño1\Logica\bin\Debug\Logica.pdb
+C:\Obligatorio-Diseño1\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Obligatorio-Diseño1\Logica\bin\Debug\Persistencia.dll
+C:\Obligatorio-Diseño1\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Obligatorio-Diseño1\Logica\bin\Debug\Persistencia.pdb
+C:\Obligatorio-Diseño1\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Obligatorio-Diseño1\Logica\obj\Debug\Logica.dll
+C:\Obligatorio-Diseño1\Logica\obj\Debug\Logica.pdb
+D:\Descargas\obnuevo\Logica\bin\Debug\Logica.dll
+D:\Descargas\obnuevo\Logica\bin\Debug\Logica.pdb
+D:\Descargas\obnuevo\Logica\bin\Debug\EntidadesCompartidas.dll
+D:\Descargas\obnuevo\Logica\bin\Debug\Persistencia.dll
+D:\Descargas\obnuevo\Logica\bin\Debug\EntidadesCompartidas.pdb
+D:\Descargas\obnuevo\Logica\bin\Debug\Persistencia.pdb
+D:\Descargas\obnuevo\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+D:\Descargas\obnuevo\Logica\obj\Debug\Logica.dll
+D:\Descargas\obnuevo\Logica\obj\Debug\Logica.pdb
+C:\obnuevo\obnuevo\Logica\bin\Debug\Logica.dll
+C:\obnuevo\obnuevo\Logica\bin\Debug\Logica.pdb
+C:\obnuevo\obnuevo\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\obnuevo\obnuevo\Logica\bin\Debug\Persistencia.dll
+C:\obnuevo\obnuevo\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\obnuevo\obnuevo\Logica\bin\Debug\Persistencia.pdb
+C:\obnuevo\obnuevo\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\obnuevo\obnuevo\Logica\obj\Debug\Logica.dll
+C:\obnuevo\obnuevo\Logica\obj\Debug\Logica.pdb
+D:\Descargas\Ob2\Logica\bin\Debug\Logica.dll
+D:\Descargas\Ob2\Logica\bin\Debug\Logica.pdb
+D:\Descargas\Ob2\Logica\bin\Debug\EntidadesCompartidas.dll
+D:\Descargas\Ob2\Logica\bin\Debug\Persistencia.dll
+D:\Descargas\Ob2\Logica\bin\Debug\EntidadesCompartidas.pdb
+D:\Descargas\Ob2\Logica\bin\Debug\Persistencia.pdb
+D:\Descargas\Ob2\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+D:\Descargas\Ob2\Logica\obj\Debug\Logica.dll
+D:\Descargas\Ob2\Logica\obj\Debug\Logica.pdb
+D:\Descargas\Imagenes Linq\Ob2\Logica\bin\Debug\Logica.dll
+D:\Descargas\Imagenes Linq\Ob2\Logica\bin\Debug\Logica.pdb
+D:\Descargas\Imagenes Linq\Ob2\Logica\bin\Debug\EntidadesCompartidas.dll
+D:\Descargas\Imagenes Linq\Ob2\Logica\bin\Debug\Persistencia.dll
+D:\Descargas\Imagenes Linq\Ob2\Logica\bin\Debug\EntidadesCompartidas.pdb
+D:\Descargas\Imagenes Linq\Ob2\Logica\bin\Debug\Persistencia.pdb
+D:\Descargas\Imagenes Linq\Ob2\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+D:\Descargas\Imagenes Linq\Ob2\Logica\obj\Debug\Logica.dll
+D:\Descargas\Imagenes Linq\Ob2\Logica\obj\Debug\Logica.pdb
